@@ -4,6 +4,8 @@ title: Write-Up
 
 # Data Centers and County Income: Write-Up
 
+link to project repository: https://github.com/NickPerlich/assignment5_interactive_vis
+
 ## Design Rationale
 
 ### Visual Encodings
