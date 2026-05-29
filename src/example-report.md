@@ -20,3 +20,13 @@ I considered a line chart for showing income trends over time, but it would have
 
 ## References
 
+Mongird, K., Thurber, T., Vernon, C., Burleyson, C., Akdemir, K. Z., & Rice, J. (2025). IM3 Open Source Data Center Atlas [Dataset]. Pacific Northwest National Laboratory. https://doi.org/10.57931/2550666
+
+
+Epoch AI. (2025). Frontier Data Centers Hub [Dataset]. https://epoch.ai/data/data-centers
+
+
+U.S. Bureau of Economic Analysis. (2024). County and MSA personal income summary: Per capita personal income, Table CAINC1 [Dataset]. https://apps.bea.gov/iTable
+
+
+U.S. Bureau of Economic Analysis. (2026). County GDP summary, Table CAGDP1 [Dataset]. https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
